@@ -1,1 +1,1 @@
-# 100-C-exercise
+# 100-Cpp-exercise
